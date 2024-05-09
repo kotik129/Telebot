@@ -2,7 +2,7 @@ MAX_USERS = 3
 MAX_GPT_TOKENS = 120
 COUNT_LAST_MSG = 4
 
-HOME_DIR = '/home/student/telebot'
+HOME_DIR = '/home/student/Telebot'
 LOGS = f'{HOME_DIR}/logs.txt'
 DB_FILE = f'{HOME_DIR}/messages.db'
 
