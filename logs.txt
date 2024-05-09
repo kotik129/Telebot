@@ -1,0 +1,2 @@
+2024-05-08 20:39:11,167 FILE: database.py IN: create_database MESSAGE: DATABASE: База данных создана
+2024-05-08 20:39:44,614 FILE: database.py IN: add_message MESSAGE: Error binding parameter 5: type 'tuple' is not supported
